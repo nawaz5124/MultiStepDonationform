@@ -1,0 +1,29 @@
+/* DonorsPage.module.css */
+.container {
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .donorList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .donorItem {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .donorItem:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+

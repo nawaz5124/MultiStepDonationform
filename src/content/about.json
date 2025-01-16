@@ -1,0 +1,30 @@
+{
+  "title": "About Us",
+  "description": "The Camel Foundation is dedicated to improving the lives of individuals and communities through sustainable projects.",
+  "history": [
+    {
+      "year": "2005",
+      "event": "Foundation established to address educational disparities."
+    },
+    {
+      "year": "2010",
+      "event": "Launched the Clean Water Initiative, benefiting thousands."
+    },
+    {
+      "year": "2020",
+      "event": "Expanded operations to 10 countries, focusing on sustainability."
+    }
+  ],
+  "team": [
+    {
+      "name": "John Doe",
+      "role": "Founder",
+      "image": "/images/team/john.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "Director of Operations",
+      "image": "/images/team/jane.jpg"
+    }
+  ]
+}

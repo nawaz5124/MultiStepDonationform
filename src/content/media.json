@@ -1,0 +1,28 @@
+{
+    "items": [
+      {
+        "title": "Event 1",
+        "description": "Vivamus eu congue turpis, ut finibus felis.",
+        "image": "/images/media/event1.jpg",
+        "type": "VIDEOS"
+      },
+      {
+        "title": "Event 2",
+        "description": "Nam finibus justo nisi, vitae interdum lorem suscipit nec.",
+        "image": "/images/media/event2.jpg",
+        "type": "IMAGES"
+      },
+      {
+        "title": "Event 3",
+        "description": "Lorem ipsum dolor sit amet.",
+        "image": "/images/media/event3.jpg",
+        "type": "IMAGES"
+      },
+      {
+        "title": "Event 4",
+        "description": "Aliquam aliquet tincidunt neque.",
+        "image": "/images/media/event4.jpg",
+        "type": "VIDEOS"
+      }
+    ]
+  }

@@ -1,0 +1,30 @@
+{
+    "title": "Our Causes",
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Our Causes"
+    },
+    "causes": [
+      {
+        "title": "Camel Institutions Excellence Programme (CIEP initiative)",
+        "description": "We work towards establishing institutions of excellence including schools, pre-university college, and degree colleges with state-of-the-art libraries and sports facility.\n\nThese institutions aim to provide services to the local community irrespective of religion, caste, or ethnicity.\n\nWith 5.5-acres of prime land in Northern Karnataka (Dharwad) for setting up a world-class high school (CBSE) and degree college.\n\nWe plan to set up a deemed university, professional institutes of learning, and modern residential hostels throughout India.",
+        "image": "/images/causes/ciep.jpg",
+        "button": "Donate Now",
+        "link": "/donate"
+      },
+      {
+        "title": "Camel All Round Education Centres (CARE initiative)",
+        "description": "A Residential Hostel is a facility that provides safe shelter and all resources for an all-round education under one roof for children who would like to pursue education to become responsible and respectable citizens within society.\n\nThese children would otherwise be deprived of such provisions due to poverty, broken families, and lack of an educative atmosphere at home.",
+        "image": "/images/causes/care.jpg",
+        "button": "Donate Now",
+        "link": "/donate"
+      }
+    ],
+    "donate": {
+      "title": "Join Us in Making a Difference",
+      "description": "Your support can change lives. Join us in our mission to provide education, shelter, and resources to those in need. Together, we can create a brighter future.",
+      "image": "/images/causes/donate.jpg",
+      "button": "Donate Now",
+      "link": "/donate"
+    }
+  }

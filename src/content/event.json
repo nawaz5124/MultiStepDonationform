@@ -1,0 +1,24 @@
+{
+  "title": "Events",
+  "description": "Explore our upcoming and past events and get involved to make a difference.",
+  "events": [
+    {
+      "title": "Make Your Mark: Attend Our Charity Fundraiser",
+      "date": "2025-08-01",
+      "location": "6 Thornton Road, Birmingham B8 2LG",
+      "image": "/images/events/charity-fundraiser.jpg"
+    },
+    {
+      "title": "Educational Workshop",
+      "date": "2025-09-09",
+      "location": "6 Thornton Road, Birmingham B8 2LG",
+      "image": "/images/events/educational-workshop.jpg"
+    },
+    {
+      "title": "Community Clean-Up",
+      "date": "2025-10-15",
+      "location": "6 Thornton Road, Birmingham B8 2LG",
+      "image": "/images/events/community-cleanup.jpg"
+    }
+  ]
+}

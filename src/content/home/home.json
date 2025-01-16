@@ -1,0 +1,28 @@
+{
+    "hero": {
+      "cta1": {
+        "label": "Donate Now",
+        "link": "/donate"
+      },
+      "cta2": {
+        "label": "Learn More",
+        "link": "/about"
+      }
+    },
+    "mission": {
+      "title": "Our Mission1",
+      "description": "To support communities in need by providing resources and opportunities for growth and development."
+    },
+    "featured_projects": [
+      {
+        "title": "Clean Water Initiative",
+        "description": "Providing access to clean and safe drinking water in rural areas.",
+        "image": "/images/projects/water.jpg"
+      },
+      {
+        "title": "Education for All",
+        "description": "Ensuring children in underprivileged communities have access to quality education.",
+        "image": "/images/projects/education.jpg"
+      }
+    ]
+  }
