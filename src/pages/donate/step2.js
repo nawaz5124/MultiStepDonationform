@@ -19,16 +19,10 @@ export default function Step2() {
     e.preventDefault(); // Prevent the form from refreshing the page
 
     // Log the navigation action for debugging
-    console.log('Navigating to Step 3 with data:', {
-      pathname: '/donate/steps/step3', // Target step3 page
-      query: { type }, // Pass the donation type as a query parameter
-    });
+    console.log('Navigating to Step 3 with query string:', `/donate/steps/step3?type=${type}`);
 
-    // Navigate to Step 3
-    router.push({
-      pathname: '/donate/steps/step3', // Correct path to step3.js
-      query: { type }, // Pass the donation type along
-    });
+    // Navigate to Step 3 with explicit query string
+    router.push(`/donate/steps/step3?type=${type}`);
   };
 
   return (
